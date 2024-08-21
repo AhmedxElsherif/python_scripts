@@ -1,4 +1,10 @@
-#pip install playsound --break-system-packages
+#------------------------------------------------------------------------#
+#   File : convertTextToSpeak.py
+#   Author : Ahmed ElSherif                                              #
+#   Path : Repo/paython_scripts
+#------------------------------------------------------------------------#
+
+#pip install playsound 
 
 from gtts import gTTS
 import playsound
