@@ -4,7 +4,7 @@
 #   Path : Repo/paython_scripts
 #------------------------------------------------------------------------#
 
-#pip install pprint (To make the json more readable)
+#pip install pprint (To make - json data - more readable)
 #pip install requests
 
 import requests
